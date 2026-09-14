@@ -1,0 +1,27 @@
+# === Datos pesados (regenerables) ===
+datos/raw/*.csv
+datos/limpios/*.csv
+datos/limpios/*.pkl
+
+# === Modelos binarios (pesados) ===
+modelos/*.pkl
+modelos/*.keras
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# === Sistema operativo ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,27 @@
+Variable,Coeficiente
+InternetService_No,-1.2324955057012945
+tenure,-1.1523317273653468
+Contract_Two year,-0.8844337142266918
+InternetService_Fiber optic,0.8762646504131966
+Contract_Month-to-month,0.5499863480243949
+TotalCharges,0.4874458418165659
+OnlineSecurity,-0.3698323231104678
+StreamingMovies,0.3475389728383524
+PaperlessBilling,0.33614358169709807
+StreamingTV,0.3214842671694283
+MonthlyCharges,-0.3188335026144819
+PhoneService,-0.3172306396894691
+TechSupport,-0.30306901311934836
+MultipleLines,0.2874912931059975
+PaymentMethod_Credit card (automatic),-0.24221951883843643
+PaymentMethod_Bank transfer (automatic),-0.24152250346367818
+Dependents,-0.22897436238754865
+PaymentMethod_Mailed check,-0.19251118338377526
+Contract_One year,-0.18140134355260049
+PaymentMethod_Electronic check,0.16040449593099387
+InternetService_DSL,-0.15961785446680818
+SeniorCitizen,0.15139885490435606
+OnlineBackup,-0.1093336029661355
+gender,0.03090757747725059
+Partner,0.017646058582742062
+DeviceProtection,0.004916397192154883
